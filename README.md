@@ -17,7 +17,7 @@
 ## What is Git?
 - Git is a free and open source version control system
 - It's system that keeps records of your changes 
-- It allows collaboration and allows you to know who made what changes and when they made those changes
+- Allows collaboration and lets you see who made what changes as well as when those changes were made
 - **Git lets you revert any changes and go back to a previous version of a project**
 
 ## What's so special about Git?
@@ -137,7 +137,7 @@
 
 (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-## So now, What is GitHub?
+## So now, what is GitHub?
 - The largest git repository hosting service
 - Allows code collaboration with anyone and has some handy UI tools to easily manage your repository
 
