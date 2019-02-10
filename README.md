@@ -2,8 +2,12 @@
 
 ## Install Git and Create a GitHub account.
 - Linux 
-    - sudo apt-get install git
-    - sudo yum install git
+    ```bash
+    $ sudo apt-get install git
+    ```
+    ```bash
+    $ sudo yum install git
+    ```
 - Windows and Mac
     - https://git-scm.com/downloads
 
