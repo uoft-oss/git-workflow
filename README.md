@@ -16,7 +16,7 @@
 
 ## What is Git?
 - Git is a free and open source version control system
-- It's system that keeps records of your changes 
+- It's a system that keeps records of your changes 
 - Allows collaboration and lets you see who made what changes as well as when those changes were made
 - **Git lets you revert any changes and go back to a previous version of a project**
 
