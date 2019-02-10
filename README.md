@@ -28,15 +28,15 @@
 - An internet connection is required only to push and pull from a remote server
 
 ## Key Concepts
-- Snapshot: The way git tracks changes to the code
+- **Snapshot**: The way git tracks changes to the code
     - At a given time you can create a snapshot of the current version of the code
-- Commit: The act of creating a snapshot. (Commits also keeps track of the previous commit that came before it)
+- **Commit**: The act of creating a snapshot. (Commits also keeps track of the previous commit that came before it)
     - So an open source project is just made up of a bunch of commits
-- Repository: Usually a collection of the project along with its full history (usually on a remote server, GitHub)
-- Cloning: The act of copying a repository from a remote server
-- Pulling: Downloading new changes from a remote repository that doesn't exist in your local repository
-- Pushing: Adding your local changes to a remote repository
-- Branches: All commits on git exists on a branch
+- **Repository**: Usually a collection of the project along with its full history (usually on a remote server, GitHub)
+- **Cloning**: The act of copying a repository from a remote server
+- **Pulling**: Downloading new changes from a remote repository that doesn't exist in your local repository
+- **Pushing**: Adding your local changes to a remote repository
+- **Branches**: All commits on git exists on a branch
     - The main branch in a project is called the **master** branch
 
 <a href="https://www.atlassian.com/git/tutorials/using-branches">
