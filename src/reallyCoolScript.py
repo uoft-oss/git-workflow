@@ -9,7 +9,7 @@ def main():
     inp = input("Guess a number between 100? ")
 
     # check if user guessed correctly
-    if (inp == x):
+    if (int(inp) == x):
         print("Well done!! You guessed correctly.")
     else:
         print("Nope!")
